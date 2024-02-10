@@ -1,3 +1,9 @@
+from funk import text
 print("Hello word!!!")
-print("Hello SYNERGY!!!")
+
+print(text())
+
+s = "Hello SYNERGY!"
+print(s)
+
 print("Hello!")
