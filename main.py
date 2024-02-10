@@ -1,2 +1,3 @@
-print("Hello word!!!")
+from funk import text
+print(text())
 print("Hello SYNERGY!!!")
