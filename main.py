@@ -1,5 +1,5 @@
 from funk import text
 print(text())
 
-s = "Hello SYNERGY!!!"
+s = "Hello SYNERGY!"
 print(s)
